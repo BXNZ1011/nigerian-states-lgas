@@ -1,0 +1,20 @@
+[
+  {
+    "state": "Lagos",
+    "capital": "Ikeja",
+    "population": 21400000,
+    "lgas": ["Agege", "Alimosho", "Epe", "Ikorodu", "Surulere"]
+  },
+  {
+    "state": "Kano",
+    "capital": "Kano",
+    "population": 13000000,
+    "lgas": ["Dala", "Fagge", "Gwale", "Kumbotso", "Tarauni"]
+  },
+  {
+    "state": "Rivers",
+    "capital": "Port Harcourt",
+    "population": 7500000,
+    "lgas": ["Obio/Akpor", "Ikwerre", "Okrika", "Bonny", "Degema"]
+  }
+]
